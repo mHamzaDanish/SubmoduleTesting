@@ -1,0 +1,3 @@
+[submodule "HDTestWork/repository"]
+	path = HDTestWork/repository
+	url = https://github.com/HDTestWork/odoo-custom-module-test.git
